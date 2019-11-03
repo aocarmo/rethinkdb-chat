@@ -1,0 +1,14 @@
+extend layout
+
+block content
+  .jumbotron.masthead
+    .container
+      h1 Minha Conta
+      p Você está logado como: #{user.username}
+
+      a(href="/logout").btn.btn-danger
+        i.icon-signout
+        |  Sair
+      a(href="/chat").btn.btn-danger
+        i.icon-comments-alt
+        |  Voltar ao chat!

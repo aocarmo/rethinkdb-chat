@@ -1,0 +1,27 @@
+{
+  "name": "awesome_chat2k",
+  "version": "0.0.2",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.15.0",
+    "connect-flash": "0.1.1",
+    "cookie-parser": "^1.4.1",
+    "debug": "0.7.4",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "jade": "1.0.0",
+    "node-gyp": "^3.8.0",
+    "passport": "0.1.17",
+    "passport-local": "0.1.6",
+    "rethinkdb": "^2.2.0",
+    "socket.io": "0.9.16"
+  },
+  "devDependencies": {
+    "karma": "^4.4.1",
+    "webpack-dev-server": "^1.8.0"
+  }
+}
