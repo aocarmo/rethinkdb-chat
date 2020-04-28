@@ -22,6 +22,6 @@
   },
   "devDependencies": {
     "karma": "^4.4.1",
-    "webpack-dev-server": "^1.8.0"
+    "webpack-dev-server": "^3.1.11"
   }
 }
