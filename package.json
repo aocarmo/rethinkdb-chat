@@ -21,7 +21,7 @@
     "socket.io": "0.9.16"
   },
   "devDependencies": {
-    "karma": "^4.4.1",
+    "karma": "^6.3.16",
     "webpack-dev-server": "^1.8.0"
   }
 }
